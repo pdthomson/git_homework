@@ -3,3 +3,5 @@ take away 2: ask every question you have, share every screen shot when something
 
 1 strategy: I have started writing the code in my terminal as practice to a notebook thats color coded so i can refer to past uses of things and see what it looked like/what it should look like
 2 strategy: I go read that days lesson twice before we have class, the first time im just reading and nothing else the second time I take notes as I go, then during class I write in additional information or notes or questions people had about certain things then I want to take a couple hours and refine the notes to another notebook and clean it all up
+
+shoutout to my entire group of friends who constantly root me on and keep me afloat with love and support
