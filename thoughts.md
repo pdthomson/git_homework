@@ -5,3 +5,5 @@ take away 2: ask every question you have, share every screen shot when something
 2 strategy: I go read that days lesson twice before we have class, the first time im just reading and nothing else the second time I take notes as I go, then during class I write in additional information or notes or questions people had about certain things then I want to take a couple hours and refine the notes to another notebook and clean it all up
 
 shoutout to my entire group of friends who constantly root me on and keep me afloat with love and support
+
+I am starting to narrow down what I should be looking into as far as coding, I think I sometimes google things outside of my realm and confuse myself
